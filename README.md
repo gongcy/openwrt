@@ -1,0 +1,1 @@
+# HACS OpenWrt Plugin
